@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.spray_can.first_persion": {
+			"loop": true,
+			"bones": {
+				"miehuoqi": {
+					"rotation": [153.53891, -78.05225, 42.96793],
+					"position": [7, 6, 7]
+				}
+			}
+		},
+		"animation.spray_can.third_persion": {
+			"loop": true,
+			"bones": {
+				"miehuoqi": {
+					"rotation": [87.6349, -25.01871, 87.8566],
+					"position": [0, 0, 1],
+					"scale": 0.7
+				}
+			}
+		}
+	}
+}

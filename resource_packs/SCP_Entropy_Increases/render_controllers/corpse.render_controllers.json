@@ -1,0 +1,27 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.corpse": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "material.default"
+        }
+      ],
+      "textures": ["array.skin[query.property('ei:cropse_int_property')]"],
+      "arrays": {
+        "textures": {
+          "array.skin": [
+            "texture.default",
+            "texture.res",
+            "texture.guard",
+            "texture.mtf",
+            "texture.ci",
+            "texture.scp035",
+            "texture.unknow"
+          ]
+        }
+      }
+    }
+  }
+}

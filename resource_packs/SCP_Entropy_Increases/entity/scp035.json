@@ -1,0 +1,21 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "ei:scp035_entity",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/scp035/scp035"
+      },
+      "geometry": {
+        "default": "geometry.scp035_entity"
+      },
+      "render_controllers": ["controller.render.default"],
+      "scripts": {},
+      "enable_attachables": false,
+      "hide_armor": false
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.id_card.idle": {
+			"loop": true,
+			"bones": {
+				"rightItem": {
+					"rotation": [40, 62.5, 0],
+					"position": [-3, 2, -4]
+				}
+			}
+		}
+	}
+}

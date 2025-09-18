@@ -1,0 +1,45 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "disable": {
+      "textures": "textures/items/disable"
+    },
+    "setpoint": {
+      "textures": "textures/items/setpoint"
+    },
+    "gotopoint": {
+      "textures": "textures/items/gotopoint"
+    },
+    "unknow_id_card": {
+      "textures": "textures/items/unknow_id_card"
+    },
+    "terminal": {
+      "textures": "textures/items/terminal"
+    },
+    "music_attack": {
+      "textures": "textures/items/music_attack"
+    },
+    "music_note": {
+      "textures": "textures/items/music_note"
+    },
+    "rush": {
+      "textures": "textures/items/rush"
+    },
+    "personalize": {
+      "textures": "textures/items/personalize"
+    },
+    "spray_fire_extinguisher": {
+      "textures": "textures/items/spray_fire_extinguisher"
+    },
+    "spray_lavender": {
+      "textures": "textures/items/spray_lavender"
+    },
+    "spray_poison": {
+      "textures": "textures/items/spray_poison"
+    },
+    "scp035": {
+      "textures": "textures/items/scp035"
+    }
+  }
+}

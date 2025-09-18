@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§bSCP: Entropy Increases§e - GameMode v1.5.0",
+    "description": "SCP: 熵增 - 游戏模式系统 Game mode based on Sapi engine, produced by Fission Track Studio. Necessary dependency mods: FTRF-INFRA-Script, [FTSCP]NVIDIAPBRP, FTRF-SCP.CB_Sounds.",
+    "uuid": "3b59468d-386c-4ec9-8e7c-1bf74ae11b44",
+    "version": [1, 5, 0],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "description": "My Resource Pack",
+      "type": "resources",
+      "uuid": "1ec99a5c-ade5-4fd4-b451-feaf2bd20605",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "0b7c7bc7-9074-423d-9211-56c4555bac3e",
+      "version": [1, 5, 0]
+    }
+  ]
+}

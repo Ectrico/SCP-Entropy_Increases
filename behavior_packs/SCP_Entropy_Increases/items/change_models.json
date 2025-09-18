@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ei:change_models"
+    },
+    "components": {
+      "minecraft:icon": "personalize",
+      "minecraft:max_stack_size": 1,
+      "minecraft:custom_components": ["ei:change_models"]
+    }
+  }
+}

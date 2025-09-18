@@ -1,0 +1,15 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.terminal_hand.first_persion": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [33.24565, 61.59668, -12.0551],
+					"position": [1, 0, 7],
+					"scale": 1.5
+				}
+			}
+		}
+	}
+}

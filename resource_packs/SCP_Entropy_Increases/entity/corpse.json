@@ -1,0 +1,27 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "ei:corpse",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/corpse/classd",
+        "res": "textures/entity/corpse/res",
+        "guard": "textures/entity/corpse/guard",
+        "mtf": "textures/entity/corpse/mtf",
+        "ci": "textures/entity/corpse/ci",
+        "scp035": "textures/entity/corpse/scp035",
+        "unknow": "textures/entity/corpse/unknow"
+      },
+      "geometry": {
+        "default": "geometry.corpse"
+      },
+      "render_controllers": ["controller.render.corpse"],
+      "scripts": {},
+      "enable_attachables": false,
+      "hide_armor": false
+    }
+  }
+}

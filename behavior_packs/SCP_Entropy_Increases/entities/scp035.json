@@ -1,0 +1,38 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "ei:scp035_entity",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false,
+      "properties": {
+        "ei:cropse_int_property": {
+          "type": "int",
+          "range": [0, 6],
+          "default": 0,
+          "client_sync": true
+        }
+      }
+    },
+    "components": {
+      "minecraft:health": {
+        "value": 10000,
+        "max": 10000
+      },
+      "minecraft:physics": {},
+      "minecraft:pushable": {},
+      "minecraft:collision_box": {
+        "width": 0.7,
+        "height": 0.3
+      },
+      "minecraft:nameable": {
+        "always_show": false,
+        "allow_name_tag_renaming": true
+      },
+      "minecraft:interact": {
+        "interactions": [{}]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "ei:mtf_terminal",
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/models/terminal",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.terminal_hand"
+      },
+      "animations": {
+        "first_person": "animation.terminal_hand.first_persion"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "first_person": "context.is_first_person"
+          }
+        ]
+      },
+      "render_controllers": ["controller.render.item_default"]
+    }
+  }
+}

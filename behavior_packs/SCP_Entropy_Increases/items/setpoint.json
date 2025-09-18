@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ei:setpoint"
+    },
+    "components": {
+      "minecraft:icon": "setpoint",
+      "minecraft:max_stack_size": 1,
+      "minecraft:cooldown": {
+        "category": "setpoint",
+        "duration": 15
+      },
+      "minecraft:custom_components": ["ei:scp106_setpoint"]
+    }
+  }
+}

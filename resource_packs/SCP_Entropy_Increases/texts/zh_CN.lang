@@ -1,0 +1,13 @@
+item.ei:id_card=§f§lID卡
+item.ei:disable=§7§l禁用
+item.ei:setpoint=§e技能§f§l设置传送点
+item.ei:gotopoint=§e技能§f§l前往设置的传送点
+item.ei:music_attack=§e技能§f§l使用音乐攻击
+item.ei:music_attack_eric=§e技能§f§l发出声音：Eric?
+item.ei:music_attack_note=§e技能§f§l发出随机音符B动静
+item.ei:rush_stick=§e技能§f§l冲刺一段距离并黏在目标身上
+item.ei:change_models=§e§l更换模型
+item.ei:mtf_terminal=§e§lMTF终端
+item.ei:spray_fire_extinguisher=§e§l喷雾-§b液氮
+item.ei:spray_lavender=§e§l喷雾-§d薰衣草
+item.ei:spray_poison=§e§l喷雾-§a毒气

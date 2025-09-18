@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "ei:corpse",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false,
+      "properties": {
+        "ei:cropse_int_property": {
+          "type": "int",
+          "range": [0, 6],
+          "default": 0,
+          "client_sync": true
+        }
+      }
+    },
+    "components": {
+      "minecraft:health": {
+        "value": 200,
+        "max": 200
+      },
+      "minecraft:physics": {},
+      "minecraft:pushable": {},
+      "minecraft:collision_box": {
+        "width": 0.7,
+        "height": 0.3
+      },
+      "minecraft:inventory": {
+        "can_be_siphoned_from": false,
+        "container_type": "inventory",
+        "inventory_size": 27,
+        "private": false,
+        "restrict_to_owner": false
+      },
+      "minecraft:nameable": {
+        "always_show": false,
+        "allow_name_tag_renaming": true
+      }
+    }
+  }
+}

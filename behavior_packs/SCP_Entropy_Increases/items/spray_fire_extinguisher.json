@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ei:spray_fire_extinguisher"
+    },
+    "components": {
+      "minecraft:icon": "spray_fire_extinguisher",
+      "minecraft:max_stack_size": 1,
+      "minecraft:food": {
+        "can_always_eat": true,
+        "nutrition": 0,
+        "saturation_modifier": 0
+      },
+      "minecraft:use_modifiers": {
+        "use_duration": 999999
+      },
+      "minecraft:custom_components": ["ei:spray_can"]
+    }
+  }
+}

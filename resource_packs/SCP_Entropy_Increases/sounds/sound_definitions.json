@@ -1,0 +1,72 @@
+{
+  "HGTR": {
+    "category": "music",
+    "sounds": ["sounds/music/Hummell Gets The Rockets - Nick Glennie-Smith,Hans Zimmer,Harry Gregson-Williams"]
+  },
+  "Time": {
+    "category": "music",
+    "sounds": ["sounds/music/Time - Hans Zimmer"]
+  },
+  "WYEK": {
+    "category": "music",
+    "sounds": ["sounds/music/Would You Even Know - Michael Wyckoff,Veronica Goudie"]
+  },
+  "EIJNRP": {
+    "category": "music",
+    "sounds": ["sounds/music/Joel Nielsen - Residue Processing"]
+  },
+  "OC": {
+    "category": "music",
+    "sounds": ["sounds/music/Opening Credits - Hans Zimmer,Lorne Balfe"]
+  },
+  "Attack": {
+    "category": "music",
+    "sounds": ["sounds/music/Attack - Hans Zimmer"]
+  },
+
+  "Save1": {
+    "category": "music",
+    "sounds": ["sounds/music/effects/Save1"]
+  },
+  "Save2": {
+    "category": "music",
+    "sounds": ["sounds/music/effects/Save2"]
+  },
+  "Challenge_complete": {
+    "category": "music",
+    "sounds": ["sounds/music/effects/Challenge_complete"]
+  },
+  "spray_Hiss": {
+    "category": "music",
+    "sounds": ["sounds/music/effects/Hiss"]
+  },
+
+  "JNSOD": {
+    "category": "music",
+    "sounds": ["sounds/music/Joel Nielsen - Shadows of Death (Definitive Edition)"]
+  },
+  "JNST3": {
+    "category": "music",
+    "sounds": ["sounds/music/Joel Nielsen - Surface Tension 3"]
+  },
+  "Briefing": {
+    "category": "music",
+    "sounds": ["sounds/music/BlueShift/Briefing [Black Mesa - Blue Shift Bonus OST] - Daver"]
+  },
+  "Collided": {
+    "category": "music",
+    "sounds": ["sounds/music/BlueShift/Collided [Black Mesa - Blue Shift OST] - Daver"]
+  },
+  "Flammable": {
+    "category": "music",
+    "sounds": ["sounds/music/BlueShift/Flammable [Black Mesa - Blue Shift OST] - Daver"]
+  },
+  "HECUIT": {
+    "category": "music",
+    "sounds": ["sounds/music/BlueShift/HECU Initial Two [Black Mesa - Blue Shift OST] - Daver"]
+  },
+  "The_Keeper": {
+    "category": "music",
+    "sounds": ["sounds/music/BlueShift/The Keeper [Black Mesa - Blue Shift OST] - Daver"]
+  }
+}

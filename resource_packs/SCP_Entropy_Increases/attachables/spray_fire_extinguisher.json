@@ -1,0 +1,34 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "ei:spray_fire_extinguisher",
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/models/spray_fire_extinguisher",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.spray_can"
+      },
+      "animations": {
+        "first_person": "animation.spray_can.first_persion",
+        "third_person": "animation.spray_can.third_persion"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "first_person": "context.is_first_person"
+          },
+          {
+            "third_person": "!context.is_first_person"
+          }
+        ]
+      },
+      "render_controllers": ["controller.render.item_default"]
+    }
+  }
+}
