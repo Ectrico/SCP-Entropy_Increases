@@ -20,7 +20,7 @@ A fast‑paced, round‑based SCP roleplay/combat game mode for **Minecraft: Bed
 - **[FTRF-Infrastructures-Script]**：
   - 下载地址：[FT Offical Website](https://www.ftstudio.top/?download=ftrf-infrastructure)
   - 建筑方块，权限卡，特殊物品，护甲，部分武器。需要导入行为包与资源包。
-- **[FT-Site-217's Arormy]**：
+- **[FT-Site-217's Armory]**：
   - 下载地址：[FT Offical Website](https://www.ftstudio.top/?download=ft-site-217s-armory-217%e7%ab%99%e7%82%b9%e7%9a%84%e5%86%9b%e6%a2%b0%e5%ba%93-v0-1-0)
   - 主要枪械物品，生成物。需要导入行为包与资源包。
 - **[FT-Site-15]**：
