@@ -5693,7 +5693,7 @@ function setGameMode(mode) {
   GameMode3 = mode;
 }
 var Maps = { Site_15: "Site-15", Site_217: "Site-217" };
-var Map2 = Maps.Site_217;
+var Map2 = Maps.Site_15;
 world13.afterEvents.worldLoad.subscribe(() => {
   overworld8.runCommand(`kill @e[type=item]`);
   ResetPlayer();

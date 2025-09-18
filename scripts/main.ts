@@ -148,7 +148,7 @@ export function setGameMode(mode: typeof Entropy_Increases | typeof Inbreak) {
 }
 // 地图
 export const Maps = { Site_15: "Site-15", Site_217: "Site-217" };
-export const Map = Maps.Site_217;
+export const Map = Maps.Site_15;
 
 // 初始化对局
 world.afterEvents.worldLoad.subscribe(() => {
