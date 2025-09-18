@@ -30,7 +30,7 @@ A fast‑paced, round‑based SCP roleplay/combat game mode for **Minecraft: Bed
   - 下载地址：[FT Offical Website](https://www.ftstudio.top/?download=ftrf-scp-cb_sounds-v1-0-0-scp%e6%94%b6%e5%ae%b9%e5%a4%b1%e6%95%88%e9%9f%b3%e6%95%88%e5%8c%85)
   - 所需音乐、广播与环境音。需要导入资源包。
 - **[Halloween BatProject]**：
-  - 下载地址：[Github](当前项目的释放)
+  - 下载地址：[Github](https://github.com/Ectrico/SCP-Entropy_Increases/releases)
   - SCP 角色模型。需要导入行为包与资源包。
   - 此作品工作室从未正式发布，跟随模式作品发布，不得重新分发，传播，进行脱离此项目的任何使用。
 
