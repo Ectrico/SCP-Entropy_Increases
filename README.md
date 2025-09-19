@@ -33,6 +33,9 @@ A fast‑paced, round‑based SCP roleplay/combat game mode for **Minecraft: Bed
   - 下载地址：[Github](https://github.com/Ectrico/SCP-Entropy_Increases/releases)
   - SCP 角色模型。需要导入行为包与资源包。
   - 此作品工作室从未正式发布，跟随模式作品发布，不得重新分发，传播，进行脱离此项目的任何使用。
+- **[Minecraft Bedrock Server]**：
+  - 下载地址：[Minecraft Bedrock Server Offical Website](https://www.minecraft.net/zh-hans/download/server/bedrock)
+  - MCBE 官方专用服务器
 
 请确保您已根据文档正确安装这些模组。
 
